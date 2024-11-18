@@ -1,0 +1,6 @@
+Images: drawn by me
+Libraries used:
+SFML 2.5.2.1
+Font: Lato-Regular
+
+Example of IO files: highscore.txt in both folders
